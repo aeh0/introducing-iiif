@@ -1,14 +1,13 @@
 title: Introducing IIIF
-description: > # this means to ignore newlines until "baseurl:"
-  A IIIF tutorial for complete beginners
+author:
+  name: aeh0
+  email: your-email@domain.com
+
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-
-baseurl: "introducing-iiif" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  aeh0
-author: "Alison Harvey"
-
+description: >
+  A IIIF tutorial for complete beginners
+  
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
