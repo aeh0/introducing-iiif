@@ -1,12 +1,13 @@
 title: Introducing IIIF
-author: Alison Harvey
-  name: aeh0
-
-
+description: >- # this means to ignore newlines until "baseurl:"
+  A IIIF tutorial for complete beginners
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  A IIIF tutorial for complete beginners.
+
+baseurl: "introducing-iiif" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  aeh0
+author: "Alison Harvey"
 
 # Build settings
 
