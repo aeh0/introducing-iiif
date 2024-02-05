@@ -32,6 +32,11 @@ plugins:
 header_pages:
   - what-is-iiif.html
   - finding.html
+  - sharing.html
+  - comparing.html
+  - making.html
+  - annotating.html
+  
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
